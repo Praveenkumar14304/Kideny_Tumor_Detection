@@ -3,8 +3,8 @@ This project presents an AI-based system for detecting kidney tumors using advan
 
 ## 🎥 Working Demonstration
 
-[![Watch the Working Video]](Working_Video.mp4)
-*Click the image above to watch the system demonstration video*
+
+[![Watch the Working Video](Tumor_Detection.png)](https://youtube.com/your-video-link)*Click the image above to watch the system demonstration video*
 
 **Video Description:** This video shows the complete workflow of our kidney tumor detection system, including image upload, AI processing, and real-time prediction results.
 
